@@ -4,12 +4,12 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Natural language processing
-- 👯 I’m looking to collaborate on AI and NLP Project
+- 🔭 I’m currently working on NLP
+- 🌱 I’m currently learning **Natural language processing**
+- 👯 I’m looking to collaborate on **AI and NLP Project**
 - 🤔 I’m looking for help with web development
-- 💬 Ask me about Tendorflow, Keras and ML
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 💬 Ask me about *Tendorflow, Keras and ML*
+- 📫 How to reach me: contact me on my mail [geyagandharva@gmail.com](geyagandharva@gmail.com)
+- 😄 Pronouns: 010
+- ⚡ Fun fact: What comes after a million, billion and trillion?
 -->
